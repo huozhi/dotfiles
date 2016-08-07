@@ -1,0 +1,18 @@
+" colorcheme
+syntax on
+colorscheme buddy 
+
+" highlight current line
+:set cursorline
+:set cursorcolumn
+
+" fold
+set foldlevel=99
+
+" tabs
+set tabstop=2
+set shiftwidth=2
+set smarttab
+
+"shortcuts
+set pastetoggle=<F2>
