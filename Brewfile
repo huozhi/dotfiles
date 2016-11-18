@@ -1,10 +1,11 @@
 cask_args appdir: '/Applications'
 
 tap 'homebrew/bundle'
-tap 'homebrew/versions/gcc48'
-tap 'zhihu/tools/arcanist'
+tap 'homebrew/versions'
 
+brew 'gcc48'
 brew 'gdb'
+brew 'diff-so-fancy'
 brew 'httpie'
 brew 'libyaml'
 brew 'nginx'
