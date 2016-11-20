@@ -20,3 +20,5 @@ brew 'tmux'
 brew 'tree'
 brew 'vim'
 brew 'wget'
+
+cask 'atom'

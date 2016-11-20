@@ -1,0 +1,5 @@
+#!/bin/bash
+
+source homebrew/install.sh
+brew bundle
+source node/install.sh
