@@ -3,6 +3,7 @@ npm i -g \
   http-server \
   hexo-cli \
   nrm \
-  tldr
+  tldr \
+  hpm-cli
 
 
