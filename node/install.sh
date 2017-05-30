@@ -1,5 +1,10 @@
-curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.31.4/install.sh | zsh
-
-exec zsh
-nvm install v6
+brew install node yarn
+echo $(which yarn)
+yarn global add \
+  gulp-cli \
+  http-server \
+  hexo-cli \
+  nodemon \
+  nrm \
+  tldr
 
