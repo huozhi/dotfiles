@@ -22,6 +22,7 @@ brew 'htop'
 brew 'tree'
 brew 'vim'
 brew 'wget'
+brew 'mycli'
 
 cask 'atom'
 cask 'hyper'
