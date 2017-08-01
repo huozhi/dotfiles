@@ -14,7 +14,7 @@
     'body': """
       import React, {Component} from 'react'
 
-      class (${1:MyComponent}) extends Component {
+      class ${1:MyComponent} extends Component {
         render() {
           return (
 
@@ -27,7 +27,7 @@
     'body': """
       import React from 'react'
 
-      const (${1:MyComponent}) = () => {
+      const ${1:MyComponent} = () => {
         
       }
 
