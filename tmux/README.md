@@ -1,7 +1,7 @@
 # tmux config
 
 ```sh
-./get_tmux_conf.sh
+./setup_tmux.sh
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
 
