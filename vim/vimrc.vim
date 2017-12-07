@@ -4,7 +4,7 @@ set nu
 syntax on
 colorscheme wonka-dark
 highlight LineNr ctermfg=NONE ctermbg=NONE
-highlight CursorLine cterm=NONE ctermbg=darkred ctermfg=white guibg=darkred guifg=white
+highlight CursorLine cterm=NONE ctermbg=blue ctermfg=LightGray
 
 set cursorline
 "set cursorcolumn
