@@ -2,12 +2,12 @@ set nu
 
 " colorcheme
 syntax on
-colorscheme wonka-dark
+colorscheme gruvbox
 highlight LineNr ctermfg=NONE ctermbg=NONE
 highlight CursorLine cterm=NONE ctermbg=blue ctermfg=LightGray
 
-set cursorline
-"set cursorcolumn
+" set cursorline
+" set cursorcolumn
 set nohlsearch
 
 " fold
