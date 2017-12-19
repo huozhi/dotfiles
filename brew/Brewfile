@@ -20,4 +20,6 @@ brew 'tree'
 brew 'vim'
 brew 'wget'
 brew 'mycli'
+brew 'tldr'
 
+brew cask install java
