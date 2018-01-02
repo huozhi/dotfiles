@@ -21,5 +21,6 @@ brew 'vim'
 brew 'wget'
 brew 'mycli'
 brew 'tldr'
+brew 'nnn'
 
 brew cask install java
