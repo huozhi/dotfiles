@@ -22,4 +22,5 @@ brew 'mycli'
 brew 'tldr'
 brew 'nnn'
 brew 'bat'
+brew 'zsh-syntax-highlighting'
 
