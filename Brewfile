@@ -23,4 +23,4 @@ brew 'tldr'
 brew 'nnn'
 brew 'bat'
 brew 'zsh-syntax-highlighting'
-
+brew 'fd'
