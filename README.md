@@ -16,10 +16,6 @@
 - tig
 - nvm
 
-#### Apps/Binaries
-
-- atom
-
 #### Environment
 
 - node
