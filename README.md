@@ -5,28 +5,7 @@
 
 ```sh
 ./bootstrap
+brew bundle
 ```
 
-## Packages Will Installed
-
-### Commands
-
-- homebrew
-- diff-so-fancy
-- tig
-- nvm
-
-#### Environment
-
-- node
-- oh-my-zsh
-
-### Config
-
-- vim
-
-## Todo
-
-- auto link vimrc
-- auto use zsh themes
 

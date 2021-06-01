@@ -1,7 +1,7 @@
 cask_args appdir: '/Applications'
 
 tap 'homebrew/bundle'
-tap 'homebrew/versions'
+tap 'homebrew/homebrew-core'
 
 brew 'diff-so-fancy'
 brew 'httpie'
