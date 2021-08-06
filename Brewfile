@@ -24,3 +24,5 @@ brew 'nnn'
 brew 'bat'
 brew 'zsh-syntax-highlighting'
 brew 'fd'
+brew 'tidy-html5'
+
