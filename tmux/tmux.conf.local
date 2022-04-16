@@ -1,4 +1,15 @@
 # customized
 
 set -g mouse on
+set-option -g default-command "reattach-to-user-namespace -l zsh"
+setw -g mode-keys vi
 
+# Toggle mouse on
+bind-key M \
+  set-option -g mouse on \;\
+    display-message 'Mouse: ON'
+
+# Toggle mouse off
+bind-key m \
+  set-option -g mouse off \;\
+    display-message 'Mouse: OFF'
